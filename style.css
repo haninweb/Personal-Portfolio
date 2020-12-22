@@ -1,0 +1,66 @@
+body
+{background-color: lightpink;}
+
+h1
+{
+ background-color: mistyrose;
+ font-face: rockwell extra bold;
+ font-size: 60px;
+ color: maroon;
+ border: solid;
+ border-color: #C71585;
+ border-radius: 50px;
+}
+
+h2
+{
+ background-color: wheat;
+ font-face: algerian;
+ font-size: 35px;
+ color: indianred;
+ text-allign: center;
+ border: solid;
+ border-color: palevioletred;
+ border-radius: 50px;
+}
+
+h3
+{
+ font-face: algerian;
+ font-size: 35px;
+ color: indianred;
+ text-allign: center;
+}
+
+p 
+{
+ background-color: papayawhip;
+ font-size: 30px;
+ text-align: center;
+ color: black;
+ font-family: 'danion, cursive'
+ pedding: 15px;
+
+ border: inset;
+ border-color: Violet;
+ border-bottom-right-radius: 20px;
+}
+
+a:link, a:visited
+{
+ background-color: palevioletred;
+ color: mistyrose;
+ text-allign: center;
+ text-decoration: none;
+ display: inline-block;
+ border:solid;
+ border-top-left-radius: 15px;
+ border-bottom-right-radius: 15px;
+ 
+}
+
+a:hover, a:active
+{
+ background-color: wheat;
+ color: black;
+}
